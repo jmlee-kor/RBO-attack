@@ -1,0 +1,4 @@
+[submodule "gem5"]
+	path = gem5
+	url = git@github.com:gem5/gem5.git
+	branch = v20.1.0.2
